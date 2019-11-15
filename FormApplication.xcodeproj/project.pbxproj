@@ -436,6 +436,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"FormApplication/Preview Content\"";
+				DEVELOPMENT_TEAM = W8ZB6PL47P;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = FormApplication/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -455,6 +456,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"FormApplication/Preview Content\"";
+				DEVELOPMENT_TEAM = W8ZB6PL47P;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = FormApplication/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
